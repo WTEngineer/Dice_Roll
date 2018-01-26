@@ -1,2 +1,2 @@
-# Dice-Roll
-A simple dice roll app
+# Dice Roll
+A simple dice rolling app!
