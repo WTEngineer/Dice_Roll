@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="name_hint">Enter your name here</string>
+    <string name="start_button_text">Start</string>
+    <string name="name_error_msg">Seems like you forgot to enter your name!</string>
+    <string name="roll_button_text">Roll Dice</string>
+    <string name="hello_msg">Hello</string>
+    <string name="lucky_draw_msg">Yay! You have a lucky draw.</string>
+</resources>
