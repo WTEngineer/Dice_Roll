@@ -6,9 +6,9 @@ This project is an excellent tutorial for Android newbies. I have demonstrated i
 On the first screen you enter player's name and hit the 'Start' button.
 On the second screen, you see a hello message for the player, two dice images and a button to 'Roll Dice'. Everytime you click the button, you see two new and random dice values. Doubles sixes is a lucky draw!
 
-<img src="https://github.com/WTEngineer/Dice-Roll/screenshots/1.png" width="216" height="384" /> <img src="https://github.com/WTEngineer/Dice-Roll/screenshots/2.png" width="216" height="384" /> <img src="https://github.com/WTEngineer/Dice-Roll/screenshots/3.png" width="216" height="384" /> </br>
-<img src="https://github.com/WTEngineer/Dice-Roll/screenshots/4.png" width="216" height="384" />
-<img src="https://github.com/WTEngineer/Dice-Roll/screenshots/5.png" width="216" height="384" /> </br>
+<img src="https://github.com/WTEngineer/Dice_Roll/blob/master/screenshots/1.png" width="216" height="384" /> <img src="https://github.com/WTEngineer/Dice_Roll/blob/master/screenshots/2.png" width="216" height="384" /> <img src="https://github.com/WTEngineer/Dice_Roll/blob/master/screenshots/3.png" width="216" height="384" /> </br>
+<img src="https://github.com/WTEngineer/Dice_Roll/blob/master/screenshots/4.png" width="216" height="384" />
+<img src="https://github.com/WTEngineer/Dice_Roll/blob/master/screenshots/5.png" width="216" height="384" /> </br>
 
 #### Concepts learned in the tutorial
 * Activities and their lifecycle.
